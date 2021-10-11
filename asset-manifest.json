@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Rekha4758/timerapp.git/static/css/main.96171b73.chunk.css",
-    "main.js": "/Rekha4758/timerapp.git/static/js/main.0b2e304f.chunk.js",
-    "main.js.map": "/Rekha4758/timerapp.git/static/js/main.0b2e304f.chunk.js.map",
-    "runtime-main.js": "/Rekha4758/timerapp.git/static/js/runtime-main.5ebdb15b.js",
-    "runtime-main.js.map": "/Rekha4758/timerapp.git/static/js/runtime-main.5ebdb15b.js.map",
-    "static/js/2.8baffb73.chunk.js": "/Rekha4758/timerapp.git/static/js/2.8baffb73.chunk.js",
-    "static/js/2.8baffb73.chunk.js.map": "/Rekha4758/timerapp.git/static/js/2.8baffb73.chunk.js.map",
-    "index.html": "/Rekha4758/timerapp.git/index.html",
-    "static/css/main.96171b73.chunk.css.map": "/Rekha4758/timerapp.git/static/css/main.96171b73.chunk.css.map",
-    "static/js/2.8baffb73.chunk.js.LICENSE.txt": "/Rekha4758/timerapp.git/static/js/2.8baffb73.chunk.js.LICENSE.txt"
+    "main.css": "/timerapp/static/css/main.96171b73.chunk.css",
+    "main.js": "/timerapp/static/js/main.0b2e304f.chunk.js",
+    "main.js.map": "/timerapp/static/js/main.0b2e304f.chunk.js.map",
+    "runtime-main.js": "/timerapp/static/js/runtime-main.cb317d87.js",
+    "runtime-main.js.map": "/timerapp/static/js/runtime-main.cb317d87.js.map",
+    "static/js/2.8baffb73.chunk.js": "/timerapp/static/js/2.8baffb73.chunk.js",
+    "static/js/2.8baffb73.chunk.js.map": "/timerapp/static/js/2.8baffb73.chunk.js.map",
+    "index.html": "/timerapp/index.html",
+    "static/css/main.96171b73.chunk.css.map": "/timerapp/static/css/main.96171b73.chunk.css.map",
+    "static/js/2.8baffb73.chunk.js.LICENSE.txt": "/timerapp/static/js/2.8baffb73.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ebdb15b.js",
+    "static/js/runtime-main.cb317d87.js",
     "static/js/2.8baffb73.chunk.js",
     "static/css/main.96171b73.chunk.css",
     "static/js/main.0b2e304f.chunk.js"
